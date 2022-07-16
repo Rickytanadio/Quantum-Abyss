@@ -29,7 +29,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 #PageHeader #Title {
@@ -213,7 +213,7 @@ body {
 
 #PageFooter {
     background-color: #161417;
-    color: #fff;
+    color: rgb(47, 0, 255);
     text-align: left;
     padding-top: 3.57rem;
     padding-bottom: 1.8rem;
